@@ -1,7 +1,9 @@
 # video_Background_Remover
+backround Removal using OpenCV Python CVZone in video source 
+
 ![Screenshot (74)](https://github.com/yashu2002/video_Background_Remover/assets/77779431/75d1b5fc-ee5f-4423-adbc-43d548d64b9a)
 
-backround Removal using OpenCV Python CVZone in video source 
+
 
 Background Remover is a Flask-based web application that uses computer vision techniques to remove the background from a live video feed in real-time. It utilizes the SelfiSegmentation module from the cvzone library to perform background removal and create a virtual background effect.
 
