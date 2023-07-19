@@ -12,11 +12,10 @@ Background Remover is a Flask-based web application that uses computer vision te
 ## Installation
 
 1. Clone the repository:
+   
+https://github.com/yashu2002/video_Background_Remover.git
 
-```shell
-git clone https://github.com/your-username/virtual-background-remover.git
-
-# how to lanch
+# how to access
 Open your web browser and navigate to http://localhost:5000.
 
 Grant permission to access your webcam, if prompted.
